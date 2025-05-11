@@ -48,8 +48,7 @@ Collaborated with a team to develop a user-friendly website that simplifies the 
 
 
 # 📫 How to Reach Me:
-- **Email:** harshitakumari@utexas.edu, harshitakumari108@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/harshita-kumari-0108har/](https://www.linkedin.com/in/harshita-kumari-0108har/)
+**LinkedIn:** [https://www.linkedin.com/in/harshita-kumari-0108har/](https://www.linkedin.com/in/harshita-kumari-0108har/)
 
 <!--
 **hk10877/hk10877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
