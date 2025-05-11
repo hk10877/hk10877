@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Harshita 👋
+
+I'm a Computational Biology major at UT Austin with a strong focus on AI/ML, data science, and software engineering. I have hands-on experience with Python, C++, Java, JavaScript, R, and SQL. I'm driven by problem-solving, collaboration, and building software that makes a real impact.
+I'm always eager to learn, grow, and take on new challenges!
+
+
 
 <!--
 **hk10877/hk10877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
