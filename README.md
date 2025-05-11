@@ -17,8 +17,7 @@ I'm always eager to learn, grow, and take on new challenges!
 # 🚀 Projects:
 A few other projects I’ve worked on:
 
-[PCR Robot - Automated Polymerase Chain Reaction (PCR) System](https://github.com/ECLAIR-Robotics/PCR_Automation)
-
+**[PCR Robot - Automated Polymerase Chain Reaction (PCR) System](https://github.com/ECLAIR-Robotics/PCR_Automation)**
 Worked with a team to develop a robot capable of performing Polymerase Chain Reaction (PCR). Designed and implemented machine learning and computer vision algorithms to measure distances, calibrate robotic movements, and ensure precise execution of the PCR process.
 **Tech Stack:** OpenCV, NumPy, SciPy
 **Learnings:** Applied computer vision techniques for real-time robotic calibration and control.
