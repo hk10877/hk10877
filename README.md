@@ -37,10 +37,19 @@ Features include reserving, modifying, and canceling orders, as well as recommen
 - **Tech Stack:** C++  
 - **Learnings:** Applied data structures (linked lists) and object-oriented programming principles to build a scalable, interactive system
 
+---
+
+### 🌐 [Project Jupiter – Club Discovery Platform | Nebula Labs, UT Dallas](https://github.com/your-repo-if-public)
+
+Collaborated with a team to develop a user-friendly website that simplifies the process of discovering and joining student clubs at UT Dallas.  
+
+- **Tech Stack:** TypeScript, JavaScript, HTML, CSS, Jira  
+- **Learnings:** Strengthened skills in web development, agile collaboration, and issue resolution using project management tools
+
 
 # 📫 How to Reach Me:
-Email: harshitakumari@utexas.edu, harshitakumari108@gmail.com
-LinkedIn: [https://www.linkedin.com/in/harshita-kumari-0108har/](https://www.linkedin.com/in/harshita-kumari-0108har/)
+- **Email:** harshitakumari@utexas.edu, harshitakumari108@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/harshita-kumari-0108har/](https://www.linkedin.com/in/harshita-kumari-0108har/)
 
 <!--
 **hk10877/hk10877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
