@@ -18,14 +18,20 @@ I'm always eager to learn, grow, and take on new challenges!
 A few other projects I’ve worked on:
 
 **[PCR Robot - Automated Polymerase Chain Reaction (PCR) System](https://github.com/ECLAIR-Robotics/PCR_Automation)**
+
 Worked with a team to develop a robot capable of performing Polymerase Chain Reaction (PCR). Designed and implemented machine learning and computer vision algorithms to measure distances, calibrate robotic movements, and ensure precise execution of the PCR process.
+
 **Tech Stack:** OpenCV, NumPy, SciPy
+
 **Learnings:** Applied computer vision techniques for real-time robotic calibration and control.
 
-[Auditorium - Seat Reservation System and Recommender](https://github.com/hk10877/AuditoriumCplusplus)
+**[Auditorium - Seat Reservation System and Recommender](https://github.com/hk10877/AuditoriumCplusplus)**
+
 Developed a C++ program using linked lists to manage multiple auditoriums, handle seat reservations, and track orders with unique customer logins. Features include the ability to reserve, modify, and cancel orders, as well as recommend the best available seats based on proximity and availability.
-Tech Stack: C++
-Learnings: Applied data structures (linked lists) and object-oriented programming principles to build a scalable, interactive system.
+
+**Tech Stack:** C++
+
+**Learnings:** Applied data structures (linked lists) and object-oriented programming principles to build a scalable, interactive system.
 
 # 📫 How to Reach Me:
 Email: harshitakumari@utexas.edu, harshitakumari108@gmail.com
