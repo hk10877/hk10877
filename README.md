@@ -39,7 +39,7 @@ Features include reserving, modifying, and canceling orders, as well as recommen
 
 ---
 
-### 🌐 [Project Jupiter – Club Discovery Platform | Nebula Labs, UT Dallas](https://github.com/your-repo-if-public)
+### 🌐 [Project Jupiter – Club Discovery Platform | Nebula Labs, UT Dallas](https://github.com/UTDNebula/jupiter)
 
 Collaborated with a team to develop a user-friendly website that simplifies the process of discovering and joining student clubs at UT Dallas.  
 
