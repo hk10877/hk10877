@@ -12,7 +12,7 @@ I'm always eager to learn, grow, and take on new challenges!
   
 **Tools:** Python, scikit-learn, Figma
   
-**Result:** Won 3rd Place in the Women in Computer Science Hackathon at the University of Texas at Austin
+**Result:** Won **3rd Place** in the Women in Computer Science Hackathon at the University of Texas at Austin
 
 [Curious? See the full project here.](https://github.com/hk10877/SmartGrip)
 
