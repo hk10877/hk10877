@@ -1,6 +1,6 @@
 ## Hi I'm Harshita 👋
 
-I'm a Computer Science major at UT Austin with a strong focus on AI/ML, data science, and software engineering. I have hands-on experience with Python, C++, Java, JavaScript, R, and SQL. I'm driven by problem-solving, collaboration, and building software that makes a real impact.
+I'm a Computer Science major at UT Austin with a strong focus on software engineering, AI/ML, and data science. I have hands-on experience with Python, C++, Java, JavaScript, R, and SQL. I'm driven by problem-solving, collaboration, and building software that makes a real impact.
 I'm always eager to learn, grow, and take on new challenges!
 
 # 🎯 Featured Project: [SmartGrip](https://github.com/hk10877/SmartGrip)
