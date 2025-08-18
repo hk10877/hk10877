@@ -9,7 +9,9 @@ I'm always eager to learn, grow, and take on new challenges!
 - Developed a prototype of an intelligent exercise bar utilizing AI and machine learning to enhance gym training.  
 - Trained an XGBoost model using sensor data to provide performance insights and identify the type of exercise.  
 - Designed and developed an app prototype to track and display user progress.
-**Tools:** Python, scikit-learn, Figma  
+- 
+**Tools:** Python, scikit-learn, Figma
+  
 **Result:** Won 3rd Place in the Women in Computer Science Hackathon at the University of Texas at Austin
 
 [Curious? See the full project here.](https://github.com/hk10877/SmartGrip)
