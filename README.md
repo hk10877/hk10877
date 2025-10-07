@@ -26,8 +26,8 @@ A few other projects I’ve worked on:
 ### 📰 [Fake News Detector – Machine Learning Model for News Classification](https://github.com/hk10877/Fake-News-Detector/tree/main)
 Built an end-to-end machine learning system to detect and classify fake news articles using natural language processing.
 
-**Tech Stack:** Python, scikit-learn, FastAPI, React
-**Learnings:** Gained hands-on experience in Machine Learning (NLP) and software development
+- **Tech Stack:** Python, scikit-learn, FastAPI, React
+- **Learnings:** Gained hands-on experience in Machine Learning (NLP) and software development
 
 ---
 
