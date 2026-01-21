@@ -19,11 +19,11 @@ Here is my LinkedIn: https://www.linkedin.com/in/harshita-kumari-0108har/
 [Curious? See the full project here.](https://github.com/hk10877/SmartGrip)
 
 # 🚀 Projects
-A few other projects I’ve worked on:\
+A few other projects I’ve worked on:
 
 ---
 
-###🏎️ [pip -- race (Pressure Is Privilege)](https://github.com/darthvader58/pip_--race)
+###🏎️ **[pip -- race (Pressure Is Privilege)](https://github.com/darthvader58/pip_--race)**
 Built a real-time Formula 1 race strategy system to predict pit stop probabilities and optimal pit windows using live telemetry and machine learning.
 
 - **Tech Stack:** PyTorch, Rust, FastF1, WebSockets, React, Docker
