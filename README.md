@@ -26,7 +26,7 @@ A few other projects I’ve worked on:
 ### 🏎️ [pip -- race (Pressure Is Privilege)](https://github.com/darthvader58/pip_--race)
 Built a real-time Formula 1 race strategy system to predict pit stop probabilities and optimal pit windows using live telemetry and machine learning.
 
-- **Tech Stack:** PyTorch, Rust, FastF1, WebSockets, React, Docker
+- **Tech Stack:** PyTorch, Rust, FastF1, WebSockets, React
 - **Learnings:** Designed an end-to-end real-time ML system, from telemetry ingestion and model inference to low-latency backend–frontend integration
 
 ---
